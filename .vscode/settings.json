@@ -1,0 +1,8 @@
+{
+  "chat.tools.terminal.autoApprove": {
+    "/^node -c /Users/ge/Desktop/reactprojecguy-backend-main/routes/users\\.js$/": {
+      "approve": true,
+      "matchCommandLine": true
+    }
+  }
+}
